@@ -1,0 +1,49 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x02000497 RID: 1175
+	public enum EUseableType
+	{
+		// Token: 0x0400128F RID: 4751
+		NONE,
+		// Token: 0x04001290 RID: 4752
+		CLOTHING,
+		// Token: 0x04001291 RID: 4753
+		GUN,
+		// Token: 0x04001292 RID: 4754
+		CONSUMEABLE,
+		// Token: 0x04001293 RID: 4755
+		MELEE,
+		// Token: 0x04001294 RID: 4756
+		FUEL,
+		// Token: 0x04001295 RID: 4757
+		CARJACK,
+		// Token: 0x04001296 RID: 4758
+		BARRICADE,
+		// Token: 0x04001297 RID: 4759
+		STRUCTURE,
+		// Token: 0x04001298 RID: 4760
+		THROWABLE,
+		// Token: 0x04001299 RID: 4761
+		GROWER,
+		// Token: 0x0400129A RID: 4762
+		OPTIC,
+		// Token: 0x0400129B RID: 4763
+		REFILL,
+		// Token: 0x0400129C RID: 4764
+		FISHER,
+		// Token: 0x0400129D RID: 4765
+		CLOUD,
+		// Token: 0x0400129E RID: 4766
+		ARREST_START,
+		// Token: 0x0400129F RID: 4767
+		ARREST_END,
+		// Token: 0x040012A0 RID: 4768
+		DETONATOR,
+		// Token: 0x040012A1 RID: 4769
+		FILTER,
+		// Token: 0x040012A2 RID: 4770
+		CARLOCKPICK
+	}
+}

@@ -1,0 +1,41 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x020005E7 RID: 1511
+	public enum EPlayerGesture
+	{
+		// Token: 0x04001A7E RID: 6782
+		NONE,
+		// Token: 0x04001A7F RID: 6783
+		INVENTORY_START,
+		// Token: 0x04001A80 RID: 6784
+		INVENTORY_STOP,
+		// Token: 0x04001A81 RID: 6785
+		PICKUP,
+		// Token: 0x04001A82 RID: 6786
+		PUNCH_LEFT,
+		// Token: 0x04001A83 RID: 6787
+		PUNCH_RIGHT,
+		// Token: 0x04001A84 RID: 6788
+		SURRENDER_START,
+		// Token: 0x04001A85 RID: 6789
+		SURRENDER_STOP,
+		// Token: 0x04001A86 RID: 6790
+		POINT,
+		// Token: 0x04001A87 RID: 6791
+		WAVE,
+		// Token: 0x04001A88 RID: 6792
+		SALUTE,
+		// Token: 0x04001A89 RID: 6793
+		ARREST_START,
+		// Token: 0x04001A8A RID: 6794
+		ARREST_STOP,
+		// Token: 0x04001A8B RID: 6795
+		REST_START,
+		// Token: 0x04001A8C RID: 6796
+		REST_STOP,
+		// Token: 0x04001A8D RID: 6797
+		FACEPALM
+	}
+}

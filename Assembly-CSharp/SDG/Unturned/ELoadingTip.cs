@@ -1,0 +1,73 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x0200052B RID: 1323
+	public enum ELoadingTip
+	{
+		// Token: 0x0400161A RID: 5658
+		NONE,
+		// Token: 0x0400161B RID: 5659
+		HOTKEY,
+		// Token: 0x0400161C RID: 5660
+		EQUIP,
+		// Token: 0x0400161D RID: 5661
+		DROP,
+		// Token: 0x0400161E RID: 5662
+		SIRENS,
+		// Token: 0x0400161F RID: 5663
+		TRANSFORM,
+		// Token: 0x04001620 RID: 5664
+		QUALITY,
+		// Token: 0x04001621 RID: 5665
+		UMBRELLA,
+		// Token: 0x04001622 RID: 5666
+		HEAL,
+		// Token: 0x04001623 RID: 5667
+		ROTATE,
+		// Token: 0x04001624 RID: 5668
+		BASE,
+		// Token: 0x04001625 RID: 5669
+		DEQUIP,
+		// Token: 0x04001626 RID: 5670
+		NIGHTVISION,
+		// Token: 0x04001627 RID: 5671
+		TRANSFER,
+		// Token: 0x04001628 RID: 5672
+		SURFACE,
+		// Token: 0x04001629 RID: 5673
+		ARREST,
+		// Token: 0x0400162A RID: 5674
+		SAFEZONE,
+		// Token: 0x0400162B RID: 5675
+		CLAIM,
+		// Token: 0x0400162C RID: 5676
+		GROUP,
+		// Token: 0x0400162D RID: 5677
+		MAP,
+		// Token: 0x0400162E RID: 5678
+		BEACON,
+		// Token: 0x0400162F RID: 5679
+		HORN,
+		// Token: 0x04001630 RID: 5680
+		LIGHTS,
+		// Token: 0x04001631 RID: 5681
+		SNAP,
+		// Token: 0x04001632 RID: 5682
+		UPGRADE,
+		// Token: 0x04001633 RID: 5683
+		GRAB,
+		// Token: 0x04001634 RID: 5684
+		SKYCRANE,
+		// Token: 0x04001635 RID: 5685
+		SEAT,
+		// Token: 0x04001636 RID: 5686
+		RARITY,
+		// Token: 0x04001637 RID: 5687
+		ORIENTATION,
+		// Token: 0x04001638 RID: 5688
+		RED,
+		// Token: 0x04001639 RID: 5689
+		STEADY
+	}
+}

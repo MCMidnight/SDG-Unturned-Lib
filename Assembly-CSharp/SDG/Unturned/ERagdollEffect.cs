@@ -1,0 +1,29 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x02000767 RID: 1895
+	public enum ERagdollEffect
+	{
+		// Token: 0x040026EC RID: 9964
+		NONE,
+		// Token: 0x040026ED RID: 9965
+		BRONZE,
+		// Token: 0x040026EE RID: 9966
+		SILVER,
+		// Token: 0x040026EF RID: 9967
+		GOLD,
+		// Token: 0x040026F0 RID: 9968
+		ZERO_KELVIN,
+		// Token: 0x040026F1 RID: 9969
+		JADED,
+		// Token: 0x040026F2 RID: 9970
+		SOUL_CRYSTAL_GREEN,
+		// Token: 0x040026F3 RID: 9971
+		SOUL_CRYSTAL_MAGENTA,
+		// Token: 0x040026F4 RID: 9972
+		SOUL_CRYSTAL_RED,
+		// Token: 0x040026F5 RID: 9973
+		SOUL_CRYSTAL_YELLOW
+	}
+}

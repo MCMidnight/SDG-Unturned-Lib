@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	// Token: 0x02000411 RID: 1041
+	public enum ESpawnMode
+	{
+		// Token: 0x04000F02 RID: 3842
+		[Obsolete]
+		ADD_RESOURCE,
+		// Token: 0x04000F03 RID: 3843
+		[Obsolete]
+		REMOVE_RESOURCE,
+		// Token: 0x04000F04 RID: 3844
+		ADD_ITEM,
+		// Token: 0x04000F05 RID: 3845
+		REMOVE_ITEM,
+		// Token: 0x04000F06 RID: 3846
+		ADD_PLAYER,
+		// Token: 0x04000F07 RID: 3847
+		REMOVE_PLAYER,
+		// Token: 0x04000F08 RID: 3848
+		ADD_ZOMBIE,
+		// Token: 0x04000F09 RID: 3849
+		REMOVE_ZOMBIE,
+		// Token: 0x04000F0A RID: 3850
+		ADD_VEHICLE,
+		// Token: 0x04000F0B RID: 3851
+		REMOVE_VEHICLE,
+		// Token: 0x04000F0C RID: 3852
+		ADD_ANIMAL,
+		// Token: 0x04000F0D RID: 3853
+		REMOVE_ANIMAL
+	}
+}
